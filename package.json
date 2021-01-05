@@ -1,0 +1,22 @@
+{
+  "name": "demo-emotion-next-mdx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "next": "^10.0.4"
+  },
+  "dependencies": {
+    "@emotion/babel-plugin": "^11.1.2",
+    "@emotion/react": "^11.1.4",
+    "@emotion/styled": "^11.0.0",
+    "next-mdx-remote": "^2.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
